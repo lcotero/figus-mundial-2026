@@ -1,0 +1,6 @@
+{
+  "name": "Figuritas Mundial 2026",
+  "description": "Gestiona, controla y comparte tu album de figuritas del Mundial 2026 conectandote con Google Sheets y cruzando tu lista con amigos para intercambios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
