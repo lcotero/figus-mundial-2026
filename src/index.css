@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-fifa-green: #00B140;
+  --color-fifa-blue: #0046A8;
+  --color-fifa-gold: #FFD700;
+  --color-fifa-bg: #F0F4F2;
+  --color-text-dark: #1A1A1A;
+}
+
+body {
+  background-color: var(--color-fifa-bg);
+}
